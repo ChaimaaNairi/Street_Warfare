@@ -1,4 +1,3 @@
-![ss0](https://user-images.githubusercontent.com/83820363/233192373-3cabd95a-c2b6-42fb-94b2-85609d1256e3.png)
 # Street Warfare
 
 <b>Street Warfare</b> 3D is a third-person shooter game in which players battle through levels against multiple enemies. The game is designed with a 3D environment and is played from a third-person perspective. The game has five levels, each with a unique map and increasing difficulty. The objective of the game is to clear each level by defeating all enemies in that level.</br> 
